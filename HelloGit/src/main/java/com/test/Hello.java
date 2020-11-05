@@ -12,5 +12,7 @@ public class Hello {
         System.out.println("主干天机");
         System.out.println("分支添加");
         System.out.println("在线更新");
+        System.out.println("在线更新");
+        System.out.println("克隆下来的项目修改");
 }
 }
